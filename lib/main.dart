@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:money_management/Screens/Transaction/add_transaction.dart';
-import 'package:money_management/Screens/home/screen_home.dart';
-import 'package:money_management/Screens/screen_splash.dart';
-import 'package:money_management/models/Category/category_model.dart';
-import 'package:money_management/models/Transaction/transaction_model.dart';
+import 'package:cash_flow/Screens/Transaction/add_transaction.dart';
+import 'package:cash_flow/Screens/home/screen_home.dart';
+import 'package:cash_flow/Screens/screen_splash.dart';
+import 'package:cash_flow/models/Category/category_model.dart';
+import 'package:cash_flow/models/Transaction/transaction_model.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

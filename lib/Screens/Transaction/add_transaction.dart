@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:money_management/db/Category/category_db.dart';
-import 'package:money_management/db/Transaction/transaction_db.dart';
-import 'package:money_management/models/Category/category_model.dart';
-import 'package:money_management/models/Transaction/transaction_model.dart';
+import 'package:cash_flow/db/Category/category_db.dart';
+import 'package:cash_flow/db/Transaction/transaction_db.dart';
+import 'package:cash_flow/models/Category/category_model.dart';
+import 'package:cash_flow/models/Transaction/transaction_model.dart';
 
 class ScreenAddTransaction extends StatefulWidget {
   static const routeName = 'add-transaction';

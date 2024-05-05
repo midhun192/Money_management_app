@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:money_management/db/Category/category_db.dart';
-import 'package:money_management/models/Category/category_model.dart';
+import 'package:cash_flow/db/Category/category_db.dart';
+import 'package:cash_flow/models/Category/category_model.dart';
 
 class ExpenseCategoryList extends StatelessWidget {
   const ExpenseCategoryList({super.key});

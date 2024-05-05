@@ -3,10 +3,10 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:intl/intl.dart';
-import 'package:money_management/db/Category/category_db.dart';
-import 'package:money_management/db/Transaction/transaction_db.dart';
-import 'package:money_management/models/Category/category_model.dart';
-import 'package:money_management/models/Transaction/transaction_model.dart';
+import 'package:cash_flow/db/Category/category_db.dart';
+import 'package:cash_flow/db/Transaction/transaction_db.dart';
+import 'package:cash_flow/models/Category/category_model.dart';
+import 'package:cash_flow/models/Transaction/transaction_model.dart';
 
 class ScreenTransaction extends StatelessWidget {
   const ScreenTransaction({super.key});

@@ -1,6 +1,6 @@
 {
-    "name": "money_management",
-    "short_name": "money_management",
+    "name": "cash_flow",
+    "short_name": "cash_flow",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:money_management/Screens/home/screen_home.dart';
+import 'package:cash_flow/Screens/home/screen_home.dart';
 
 class ScreenSplash extends StatefulWidget {
   const ScreenSplash({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:money_management/models/Category/category_model.dart';
+import 'package:cash_flow/models/Category/category_model.dart';
 
 const CATEGORY_DB_NAME = 'category_database';
 

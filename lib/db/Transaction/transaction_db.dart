@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:money_management/models/Transaction/transaction_model.dart';
+import 'package:cash_flow/models/Transaction/transaction_model.dart';
 
 const Transaction_DB_Name = 'transaction-db';
 
